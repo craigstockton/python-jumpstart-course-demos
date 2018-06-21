@@ -1,0 +1,5 @@
+[
+  "test_banner.py::test_content",
+  "test_greeting.py::test_greet",
+  "test_prompt.py::test_prompt"
+]

@@ -1,0 +1,4 @@
+{
+  "test_Greeting.py::test_prompt": true,
+  "test_Prompt.py::test_input": true
+}
