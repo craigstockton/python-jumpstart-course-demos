@@ -7,7 +7,7 @@ from prompt import Prompt
 
 def main():
     print(Banner("GUESS THE NUMBER APP").content)
-    calibrator = Calibrator(random.randint(0,100))
+    calibrator = Calibrator(random.randint(0, 100))
     prompt = Prompt()
     success = False
     while not success:
