@@ -4,7 +4,7 @@ from name_prompt import NamePrompt
 
 
 def main():
-    print(Banner().content)
+    print(Banner('hello app').content)
     print(Greeting(NamePrompt().input()).greet())
 
 
