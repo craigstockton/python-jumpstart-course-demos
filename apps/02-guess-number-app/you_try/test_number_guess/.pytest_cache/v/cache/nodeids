@@ -1,6 +1,0 @@
-[
-  "test_calibrator.py::test_reconcile_equal",
-  "test_calibrator.py::test_reconcile_high",
-  "test_calibrator.py::test_reconcile_low",
-  "test_prompt.py::test_prompt_message"
-]
